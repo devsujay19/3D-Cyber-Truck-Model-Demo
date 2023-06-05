@@ -2,5 +2,6 @@
 Paste the given code here :-
 <br>
 # [`Codepen.io`](https://codepen.io/pen/?editors=1000)
-<br>
-## and set the CSS Processor into 'Stylus'
+## and set the CSS Processor into 'Stylus'.
+
+# [Follow me for more...](https://github.com/devsujay19)
